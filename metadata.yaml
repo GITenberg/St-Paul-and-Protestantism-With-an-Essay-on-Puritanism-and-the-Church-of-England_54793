@@ -1,5 +1,8 @@
 _repo: St-Paul-and-Protestantism-With-an-Essay-on-Puritanism-and-the-Church-of-England_54793
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54793-h/images/cover.jpg
 creator:
   author:
     agent_name: Arnold, Matthew
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1401
     wikipedia: http://en.wikipedia.org/wiki/Matthew_Arnold
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54793#St-Paul-and-Protestantism-With-an-Essay-on-Puritanism-and-the-Church-of-England
 gutenberg_issued: '2017-05-27'
 gutenberg_type: Text
 identifiers:
